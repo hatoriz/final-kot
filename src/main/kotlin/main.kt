@@ -1,11 +1,13 @@
 fun main() {
     var myAnimal = Animal()
+
     myAnimal.makeNoise()
     myAnimal.eat()
     myAnimal.roam()
     myAnimal.sleep()
 
     var myHippo = Hippo()
+
     myHippo.makeNoise()
     myHippo.eat()
 
