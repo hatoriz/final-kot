@@ -3,5 +3,6 @@ build/*
 *.bin
 *.bin
 .gradle/6.3/executionHistory/executionHistory.bin
+.gradle/*
 build/classes/kotlin/main/Feline.class
 *.class
