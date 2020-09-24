@@ -1,0 +1,7 @@
+build/*
+.gradle/*
+*.bin
+*.bin
+.gradle/6.3/executionHistory/executionHistory.bin
+build/classes/kotlin/main/Feline.class
+*.class
